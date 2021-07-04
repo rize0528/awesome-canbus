@@ -7,6 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## CANBus
 ### 2021
 * Application of Controller Area Network (CAN) bus anomaly detection based on time series prediction. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S2214209620300620)]
+    * Leveraging **LSTM** to predict the anomaly sequence of CAN message.
 
 ## Predictive anomaly
 
